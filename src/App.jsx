@@ -19,7 +19,10 @@ function App() {
       <h2> Internet Autorefresh Is Enabled </h2>
       <button onClick={() => click(color)}>
         change color
-      </button>   
+      </button>
+      <input type="text" id="myInput" />
+      
+
     </>
   )
 }
