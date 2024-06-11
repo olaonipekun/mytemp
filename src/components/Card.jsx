@@ -1,10 +1,10 @@
 function Card(){
     return(
         <div className="card">
-            <img src="https://picsum.photos/200/300" alt="" />
+            <img className="card-img" src="https://picsum.photos/200/300" alt="A profile picture" />
             <h2>Card Component</h2>
-            <p>This is a card component</p>
-            <button>Click Me</button>
+            <p>I am Ololade and I code for a living </p>
+            <button className="btn">Click Me</button>
         </div>
     )
 }
