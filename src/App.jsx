@@ -12,6 +12,7 @@ function App() {
       <hr/>
       <Card />
       <Card />
+
       <Footer />
     </>
   )
