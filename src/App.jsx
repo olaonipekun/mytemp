@@ -13,6 +13,7 @@ function App() {
       <Card />
       <Card />
       <Footer />
+      <p> hold that tight </p>
     </>
   )
 }
