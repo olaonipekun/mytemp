@@ -26,7 +26,7 @@ function Card() {
             <h2 className="card-title">Bro Code</h2>
             <p className="card-text">I am Ololade and I code for a living </p>
 
-            <input type="text" value={inputValue} onChange={handleChange} placeholder='Type something here'/>
+            <input className="inputbx" type="text" value={inputValue} onChange={handleChange} placeholder='Type something here'/>
             <button className="btnclick" onClick={handleClick}>
                 Click Me
             </button>
