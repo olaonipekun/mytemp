@@ -11,7 +11,6 @@ function App() {
       <Food/>
       <hr/>
       <Card />
-      <Card />
       <Footer />
     </>
   )
